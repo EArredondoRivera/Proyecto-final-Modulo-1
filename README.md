@@ -5,7 +5,7 @@ Este proyecto tiene como finalidad mostrar de manera sencilla un la construccion
 utilizando unicamente el lenguaje HTML.
 
 ## Instrucciones:
-Para inicializar el documento abra el archivo index.html. Este archivo es 
+Para inicializar el documento abra el archivo index.html. Este archivo es se compone de unicamente lenguaje HTML.
 ## Informacion del autor
 
 @EArredondoRivera
